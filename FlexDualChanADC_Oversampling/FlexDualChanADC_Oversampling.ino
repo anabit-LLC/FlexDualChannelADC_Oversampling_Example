@@ -9,7 +9,7 @@ to the ADC using a simple digital logic level.
 This sketch deomonstrats the concept of oversampling. It makes a single ADC measurement and then makes 16 measurements that are averaged together to show the
 increased resolution benefit of oversampling. With 16 equally spaced samples being averaged together you should see a resolution increase benefit of about
 2 bits. By default the Flex ADC has 14 bits of resolution and this oversampling example can push that resolution to 16 bits. See the Anabit YoutTube at
-the following link to learn more about oversampling: 
+the following link to learn more about oversampling: https://youtu.be/qFzGSP7x4tA
 
 Please report any issue with the sketch to the Anagit forum: https://anabit.co/community/forum/analog-to-digital-converters-adcs
 Example code developed by Your Anabit LLC © 2025
